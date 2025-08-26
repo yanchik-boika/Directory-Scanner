@@ -19,7 +19,7 @@ It is designed with scalable architecture, efficient resource management, and mo
 
 ---
 
-#Technologies Used
+# Technologies Used
 - C++17
 - STL (`std::thread`, `std::filesystem`, `std::mutex`, etc.)
 - OOP with SOLID
