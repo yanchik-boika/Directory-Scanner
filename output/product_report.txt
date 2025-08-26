@@ -1,0 +1,8 @@
+ID: 5, Name: Headphones, Description: Noise-cancelling over-ear headphones, Amount: 80, Price: 89.99
+ID: 4, Name: Pencil Set, Description: Set of 12 graphite pencils for sketching, Amount: 300, Price: 2.99
+ID: 6, Name: Marker Pack, Description: Pack of 10 colored markers, Amount: 100, Price: 5.49
+ID: 7, Name: Webcam, Description: HD webcam with built-in microphone, Amount: 60, Price: 49.99
+ID: 9, Name: Air Pods Pro 2, Description: Compact wireless earphones with ergonomic design, Amount: 500, Price: 110
+ID: 1, Name: Wireless Mouse, Description: Compact wireless mouse with ergonomic design, Amount: 230, Price: 27.903
+ID: 3, Name: USB Cable, Description: Durable USB-C cable for fast charging, Amount: 150, Price: 7.99
+ID: 2, Name: Notebook, Description: Softcover notebook with lined pages, Amount: 400, Price: 3.49

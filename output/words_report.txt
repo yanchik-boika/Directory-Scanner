@@ -1,0 +1,6 @@
+Word: a. Frequency: 4. Sources: [ data_2.txt, data_1.txt, ]
+Word: b. Frequency: 3. Sources: [ data_2.txt, data_1.txt, ]
+Word: ab. Frequency: 1. Sources: [ data_1.txt, ]
+Word: bc. Frequency: 1. Sources: [ data_1.txt, ]
+Word: c. Frequency: 1. Sources: [ data_1.txt, ]
+Word: d. Frequency: 2. Sources: [ data_2.txt, data_1.txt, ]

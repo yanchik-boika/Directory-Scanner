@@ -1,0 +1,3 @@
+/Users/yan.boika/Documents/programming/C++/own work/Dictionary_Scanner/cmake-build-debug/CMakeFiles/Dictionary_Scanner.dir
+/Users/yan.boika/Documents/programming/C++/own work/Dictionary_Scanner/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/yan.boika/Documents/programming/C++/own work/Dictionary_Scanner/cmake-build-debug/CMakeFiles/rebuild_cache.dir
